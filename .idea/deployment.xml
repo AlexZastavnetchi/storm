@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Test server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/domains/dawproject.ru/public_html/" local="$PROJECT_DIR$/1" web="/domains/dawproject.ru/public_html/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
